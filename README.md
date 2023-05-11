@@ -271,6 +271,16 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     </ul>
 </details>
 <details>
+ 
+ <details>
+    <summary>Thulile Makhubela </summary>
+    <ul>
+    <li><a href="https://github.com/ShadowP2066">Github</a></li>
+    <li><a href="https://www.linkedin.com/in/princexz">Twitter</a></li>
+    <li><a href="mailto:thulilenmakhubela@gmail.com">e-mail</a></li>
+    </ul>
+</details>
+<details>
    
 </details>
 ## Acknowledgements :pray:
