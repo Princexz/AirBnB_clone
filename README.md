@@ -270,8 +270,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <li><a href="mailto:prince_solomon@yahoo.com">e-mail</a></li>
     </ul>
 </details>
-<details>
- 
+
  <details>
     <summary>Thulile Makhubela </summary>
     <ul>
@@ -281,6 +280,8 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     </ul>
 </details>
 <details>
+ 
+
    
 </details>
 ## Acknowledgements :pray:
