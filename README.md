@@ -270,8 +270,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <li><a href="mailto:prince_solomon@yahoo.com">e-mail</a></li>
     </ul>
 </details>
-<details>
- 
+
  <details>
     <summary>Thulile Makhubela </summary>
     <ul>
@@ -281,8 +280,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     </ul>
 </details>
 <details>
-   
-</details>
+ 
 ## Acknowledgements :pray:
 
 All work contained in this project was completed as part of the curriculum for the ALX-SE programme. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com//):
